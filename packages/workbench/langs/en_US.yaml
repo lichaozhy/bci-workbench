@@ -1,0 +1,19 @@
+BCI:
+  label: BCI
+	full: Brain-Computer Interface
+	workbench:
+	  label: BCI Workbench
+
+monitor:
+  record: record
+	stop: stop
+	pause: pause
+	resume: resume
+
+utils:
+  toolbar: toolbar
+  version: version
+	license: license
+	release:
+	  label: release
+		datetime: release datetime

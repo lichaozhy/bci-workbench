@@ -1,0 +1,19 @@
+BCI:
+  label: BCI
+	full: 脑机接口
+	workbench:
+		label: 脑机接口工作站
+
+monitor:
+  record: 录制
+	stop: 停止
+	pause: 暂停
+	resume: 恢复/继续
+
+utils:
+  toolbar: 工具栏
+  version: 版本
+	license: 许可
+	release:
+	  label: 发布
+		datetime: 发布时间
