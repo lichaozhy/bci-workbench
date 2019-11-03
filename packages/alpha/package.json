@@ -5,15 +5,8 @@
   "keywords": [],
   "author": "lichaozhy <lichao@or-change.cn>",
   "homepage": "https://github.com/lichaozhy/bci-workbench/tree/master/packages/example#readme",
-  "license": "ISC",
-  "main": "lib/example.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
+  "license": "GPL-3.0",
+  "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
@@ -22,12 +15,15 @@
     "url": "git+https://github.com/lichaozhy/bci-workbench.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "dev:frontend": ""
   },
   "bugs": {
     "url": "https://github.com/lichaozhy/bci-workbench/issues"
   },
   "dependencies": {
     "@bci/workbench": "^0.0.0"
+  },
+  "devDependencies": {
+    "electron": "^7.0.1"
   }
 }
