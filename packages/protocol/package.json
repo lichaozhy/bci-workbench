@@ -1,0 +1,19 @@
+{
+  "name": "@bci/protocol",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "lichaozhy <lichao@or-change.cn>",
+  "homepage": "https://github.com/lichaozhy/bci-workbench/tree/master/packages/workbench#readme",
+  "license": "GPL-3.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichaozhy/bci-workbench.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/lichaozhy/bci-workbench/issues"
+  }
+}
